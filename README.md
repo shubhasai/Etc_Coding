@@ -1,4 +1,4 @@
 # Etc_Coding
 Share, Learn, Grow
-
-# Contributors
+## Rules
+## Contributors
